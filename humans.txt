@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Windu Prasetya <twitter>
+    Windu Prasetya
+    windu.prasetya24@gmail.com
+    
 
 # THANKS
 
