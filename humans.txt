@@ -5,6 +5,9 @@ Hi, I am modifying the file before rebase.
 
 Doing some changes in local
 
+Hi, I am going to insert conflicts in my feature branch.
+
+
 # TEAM
 
     Windu Prasetya
