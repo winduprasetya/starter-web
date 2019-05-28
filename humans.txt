@@ -5,6 +5,7 @@
 
     Windu Prasetya
     windu.prasetya24@gmail.com
+    DevOps Engineer
     
 
 # THANKS
@@ -15,3 +16,4 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAX
+    Docker, Java Programming
