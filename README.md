@@ -13,7 +13,8 @@ Adding GIT Rebase Lecture in Advance part. we have done so much work together
 Fork the Repo and raise pull request for review
 
 ## GIT Comparisions
-Adding GIT Comparisons Lecture
+Adding GIT Comparisons Lecture.
+Adding New Lecture of Stash
 
 ## GITHub Content
 Comparison with Repo
