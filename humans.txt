@@ -27,3 +27,4 @@ Hi, I am going to insert conflicts in my feature branch.
     HTML5, CSS3, Angular
     jQuery, Modernizr
     Machine Learning, AWS, Google Cloud
+    AWS Solution Architect Developer
